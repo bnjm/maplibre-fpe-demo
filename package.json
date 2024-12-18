@@ -1,0 +1,8 @@
+{
+  "name": "4pc4w8rn--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "maplibre-gl": "4.5.2"
+  }
+}
